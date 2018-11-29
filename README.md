@@ -22,7 +22,6 @@ Para auxiliar na criação de um pacote de ícones.
     * define a cor de fundo para a tile do arquivo PNG
 * **safari-pinned-tab.svg**: arquivo SVG com a máscara para a aba no Safari
 
-
 ## Tags no HTML
 A definição do caminho é necessária apenas para alguns arquivos. Outros são definidos no `manifest.json` e `browserconfig.xml`.
 
