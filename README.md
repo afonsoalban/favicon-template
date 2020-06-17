@@ -3,7 +3,6 @@ Para auxiliar na criação de um pacote de ícones.
 
 ## Referências
 * [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need?](https://css-tricks.com/favicon-quiz/)
-* [Favicon Checker (Para a Pmweb)](http://realfavicongenerator.net/favicon_checker?protocol=http&site=pmweb.com.br#.WVaJ1YjyvIU)
 
 ## Arquivos
 * ~~**favicon.ico**: 32 x 32px~~ (descontinuado)
